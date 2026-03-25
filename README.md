@@ -1,2 +1,2 @@
 ## Hi there 👋
-I am a Computer Science student at Eastern Michigan University
+I am a recent Computer Science grad from Eastern Michigan University
